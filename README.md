@@ -16,12 +16,12 @@ PS .: AIR SDK is already installed in Adobe Animate, but if necessary, update to
 
 If in doubt, use ActionScript 3.0-related groups for more information:
 
-A) https://www.facebook.com/groups/asformobile/ 
-B) https://www.facebook.com/groups/actionscriptAS3 
-C) https://www.facebook.com/groups/118921458138790 
-D) https://www.facebook.com/groups/AdobeAnimateTutorials 
-E) https://www.facebook.com/groups/1918854015096236 
-F) https://www.facebook.com/groups/AnimateAS3Air 
-G) https://www.facebook.com/groups/757838257621789 
+https://www.facebook.com/groups/asformobile/ 
+https://www.facebook.com/groups/actionscriptAS3 
+https://www.facebook.com/groups/118921458138790 
+https://www.facebook.com/groups/AdobeAnimateTutorials 
+https://www.facebook.com/groups/1918854015096236 
+https://www.facebook.com/groups/AnimateAS3Air 
+https://www.facebook.com/groups/757838257621789 
 
 Like our page: https://www.facebook.com/Adobe-Animate-for-Mobile-112308407118212/
